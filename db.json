@@ -16,10 +16,17 @@
     "vendedores": [
         {
             "id": 1,
-            "id_vendedor": 1,
+            "vendedor_id": 1,
             "rut": "1-9",
             "nombre": "pedro",
             "password": "12345678",
+            "ultimo_cierre": "2021-12-27",
+            "proximo_cierre": "2021-12-27",
+            "descuento": "1",
+            "hora_inicio": "1",
+            "hora_fin": "2",
+            "minuto_inicio": "1",
+            "minuto_fin": "2",
             "clientes": [
                 {"id":1,"rut":"1-9","nombre":"pedrita"},
                 {"id":2,"rut":"13-1","nombre":"juanita"}
@@ -27,10 +34,17 @@
         },
         {
             "id": 2,
-            "id_vendedor": 2,
+            "vendedor_id": 2,
             "rut": "13-1",
             "nombre": "juan",
             "password": "12345678",
+            "ultimo_cierre": "2021-12-27",
+            "proximo_cierre": "2021-12-27",
+            "descuento": "1",
+            "hora_inicio": "1",
+            "hora_fin": "2",
+            "minuto_inicio": "1",
+            "minuto_fin": "2",
             "clientes": [
                 {"id":1,"rut":"1-9","nombre":"pedrita"},
                 {"id":2,"rut":"13-1","nombre":"juanita"}
