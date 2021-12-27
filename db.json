@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "autenticate": [
+            "authenticate": [
                 {"pin":"0","version_app":"1.0.2","version_os":"7.1","modelo":"MRD-LX3"}
             ]
         }
