@@ -10,6 +10,7 @@
         {
             "id": 1,
             "id_vendedor": 1,
+            "rut": "1-9",
             "nombre": "pedro",
             "password": "12345678",
             "clientes": [
@@ -20,6 +21,7 @@
         {
             "id": 2,
             "id_vendedor": 2,
+            "rut": "13-1",
             "nombre": "juan",
             "password": "12345678",
             "clientes": [
