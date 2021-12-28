@@ -3,13 +3,13 @@
         {
             "id": "1",
             "authenticate": [
-                {"pin":"0","version_app":"1.0.2","version_os":"7.1","modelo":"MRD-LX3"}
+                {"pin":"0","version_app":"1","version_os":"9","modelo":"MRD-LX3"}
             ]
         },
         {
             "id": "2",
             "authenticate": [
-                {"pin":"0","version_app":"1.0.2","version_os":"7.1","modelo":"MRD-LX3"}
+                {"pin":"0","version_app":"1","version_os":"9","modelo":"MRD-LX3"}
             ]
         }
     ],
