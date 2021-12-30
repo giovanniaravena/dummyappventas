@@ -1,5 +1,5 @@
 {
-    "users":
+    "users":[
     {
             "id": 1,
             "token":"0",
@@ -26,7 +26,7 @@
                     ]
                 }
         
-    },
+    }],
     "vendedores": [
         {
             "id": 1,
@@ -68,17 +68,5 @@
     "clientes": [
         {"id":1,"rut":"1-9","nombre":"pedrita"},
         {"id":2,"rut":"13-1","nombre":"juanita"}
-    ],
-    "log_servicio":[
-        {
-            "id": 4,
-            "descripcion_servicio": "hoa",
-            "descripcion": "hola",
-            "status": 1,
-            "progress": "1",
-            "error": false,
-            "errorCode": "0",
-            "updatedAt": ""
-        }
     ]
 }
