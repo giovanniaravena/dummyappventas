@@ -75,7 +75,7 @@
             "descripcion_servicio": "hoa",
             "descripcion": "hola",
             "status": 1,
-            "progress": "0.5",
+            "progress": "1",
             "error": false,
             "errorCode": "0",
             "updatedAt": ""
