@@ -1,30 +1,25 @@
 {
     "users":[
     {
-            "id": 1,
-            "token":"0",
-            "expires":"1",
-            "url_version":"",
-            "user":
-                {
-                    "id": 1,
-                    "vendedor_id": 1,
-                    "rut": "1",
-                    "digito_verificador": "9",
-                    "nombre": "pedro",
-                    "password": "12345678",
-                    "ultimo_cierre": "2021-12-27",
-                    "proximo_cierre": "2021-12-31",
-                    "descuento": "0.5",
-                    "hora_inicio": "8",
-                    "hora_fin": "21",
-                    "minuto_inicio": "30",
-                    "minuto_fin": "30",
-                    "clientes": [
-                        {"id":1,"rut":"1-9","nombre":"pedrita"},
-                        {"id":2,"rut":"13-1","nombre":"juanita"}
-                    ]
-                }
+            "id": "1",
+            "token": "0",
+            "expires": "1",
+            "url_version": "",
+            "user": {
+                        "id": 1,
+                        "vendedor_id": 1,
+                        "rut": "1",
+                        "digito_verificador": "9",
+                        "nombre": "pedro",
+                        "password": "12345678",
+                        "ultimo_cierre": "2021-12-27",
+                        "proximo_cierre": "2021-12-31",
+                        "descuento": "0.5",
+                        "hora_inicio": "8",
+                        "hora_fin": "21",
+                        "minuto_inicio": "30",
+                        "minuto_fin": "30"
+                    }
         
     }],
     "vendedores": [
@@ -68,5 +63,18 @@
     "clientes": [
         {"id":1,"rut":"1-9","nombre":"pedrita"},
         {"id":2,"rut":"13-1","nombre":"juanita"}
+    ],
+    "log_servicio":[
+        {
+            "id": 4,
+            "descripcion_servicio": "hoa",
+            "descripcion": "hola",
+            "status": 1,
+            "progress": "100.0",
+            "error": false,
+            "errorCode": "0",
+            "updatedAt": "2021-12-27"
+        }
+
     ]
 }
