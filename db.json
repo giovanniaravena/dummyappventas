@@ -70,8 +70,10 @@
             "descripcion_servicio": "hoa",
             "descripcion": "hola",
             "status": 1,
-            "progress": "100.0"
+            "progress": "100.0",
+            "error": false,
+            "errorCode": "0",
+            "updatedAt": "2021-12-30 22:29:59"
         }
-
     ]
 }
