@@ -66,55 +66,37 @@
                     "estado": 0
                 }
             ]
-        },
-        {
-            "id": 2,
-            "vendedor_id": 2,
-            "rut": "13-1",
-            "nombre": "juan",
-            "password": "12345678",
-            "ultimo_cierre": "2021-12-27",
-            "proximo_cierre": "2021-12-27",
-            "descuento": "1",
-            "hora_inicio": "1",
-            "hora_fin": "2",
-            "minuto_inicio": "1",
-            "minuto_fin": "2",
-            "clientes": [
-                {
-                    "id": 1,
-                    "id_cliente": 1,
-                    "id_vendedor": 2,
-                    "rut":"1",
-                    "digito_verificador_cliente": 9,
-                    "nombre_cliente": "pedrita",
-                    "tratamiento_interes": "S",
-                    "credito_asignado": "100.0",
-                    "dias_plazo": 5,
-                    "monto_disponible": "150.0",
-                    "codigo_clase": "0",
-                    "estado": 0
-                },
-                {
-                    "id": 2,
-                    "id_cliente": 2,
-                    "id_vendedor": 2,
-                    "rut":"13",
-                    "digito_verificador_cliente": 1,
-                    "nombre_cliente": "juanita",
-                    "tratamiento_interes": "S",
-                    "credito_asignado": "50.0",
-                    "dias_plazo": 10,
-                    "monto_disponible": "200.0",
-                    "codigo_clase": "0",
-                    "estado": 0
-                }
-            ]
         }
     ],
     "clientes": [
-        {"id":1,"rut":"1-9","nombre":"pedrita"},
-        {"id":2,"rut":"13-1","nombre":"juanita"}
+        {
+            "id": 1,
+            "id_cliente": 1,
+            "id_vendedor": 1,
+            "rut":"1",
+            "digito_verificador_cliente": 9,
+            "nombre_cliente": "pedrita",
+            "tratamiento_interes": "S",
+            "credito_asignado": "100.0",
+            "dias_plazo": 5,
+            "monto_disponible": "150.0",
+            "codigo_clase": "0",
+            "estado": 0
+        },
+        {
+            "id": 2,
+            "id_cliente": 2,
+            "id_vendedor": 1,
+            "rut":"13",
+            "digito_verificador_cliente": 1,
+            "nombre_cliente": "juanita",
+            "tratamiento_interes": "S",
+            "credito_asignado": "50.0",
+            "dias_plazo": 10,
+            "monto_disponible": "200.0",
+            "codigo_clase": "0",
+            "estado": 0
+        }
     ],
     "log_servicio":[
         {
