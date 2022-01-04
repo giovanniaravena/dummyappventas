@@ -84,8 +84,7 @@
                     "estado": 0
                 }
             ],
-            "direcciones":
-            [
+            "direcciones": [
                 {
                     "id": 1,
                     "cliente_rut": "1-9",
