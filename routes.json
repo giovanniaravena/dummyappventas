@@ -1,0 +1,4 @@
+{
+    "/vendedores/:id_vendedor/clientes/:id_cliente": "/clientes/:id_cliente",
+    "/users/:id_vendedor/": "/user/"
+}

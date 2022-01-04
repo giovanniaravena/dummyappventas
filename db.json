@@ -98,20 +98,6 @@
                     "longitud": "26.02356555",
                     "ciudad": "Santiago",
                     "comuna": "Quinta Normal"
-                },
-                {
-                    "id": 2,
-                    "cliente_rut": "13-1",
-                    "direccion_id": 1,
-                    "direccion_despacho": "Santiago de uriona 1957",
-                    "telefono_1": "+569 49319142",
-                    "telefono_2": "",
-                    "tipo": "S",
-                    "habilitada": 1,
-                    "latitud": "36.02356555",
-                    "longitud": "26.02356555",
-                    "ciudad": "Santiago",
-                    "comuna": "Quinta Normal"
                 }
             ]
         }
@@ -153,20 +139,6 @@
             "cliente_rut": "1-9",
             "direccion_id": 1,
             "direccion_despacho": "Progreso 1391",
-            "telefono_1": "+569 49319142",
-            "telefono_2": "",
-            "tipo": "S",
-            "habilitada": 1,
-            "latitud": "36.02356555",
-            "longitud": "26.02356555",
-            "ciudad": "Santiago",
-            "comuna": "Quinta Normal"
-        },
-        {
-            "id": 2,
-            "cliente_rut": "13-1",
-            "direccion_id": 1,
-            "direccion_despacho": "Santiago de uriona 1957",
             "telefono_1": "+569 49319142",
             "telefono_2": "",
             "tipo": "S",
