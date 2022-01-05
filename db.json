@@ -69,6 +69,18 @@
                     "ciudad": "Santiago",
                     "comuna": "Quinta Normal"
                 }
+            ],
+            "cuentas_corrientes": [
+                {
+                    "id": 1,
+                    "cliente_rut": "1",
+                    "cuenta_id": 1,
+                    "type": 0,
+                    "numero": "123123",
+                    "estado": "",
+                    "banco_id": 21312312,
+                    "nombre_banco": "Banco Plop"
+                }
             ]
         }
     ],
@@ -105,6 +117,18 @@
             "comuna": "Quinta Normal"
         }
     ],
+    "cuentas_corrientes": [
+        {
+            "id": 1,
+            "cliente_rut": "1",
+            "cuenta_id": 1,
+            "type": 0,
+            "numero": "123123",
+            "estado": "",
+            "banco_id": 21312312,
+            "nombre_banco": "Banco Plop"
+        }
+    ],
     "log_servicio":[
         {
             "id": 4,
@@ -122,7 +146,7 @@
             "progress": "100.0",
             "error": false,
             "errorCode": "0",
-            "updatedAt": "2022-01-05 18:16:59"
+            "updatedAt": "2022-01-05 18:27:59"
         },
         {
             "id": 6,
